@@ -1,4 +1,8 @@
 {
   "name": "example_alpha",
+  "region": "USA",
+  "universe": "TOP3000",
+  "delay": 1,
+  "neutralization": "INDUSTRY",
   "expression": "rank(ts_mean(returns, 20))"
 }

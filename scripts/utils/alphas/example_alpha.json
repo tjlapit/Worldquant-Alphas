@@ -1,0 +1,4 @@
+{
+  "name": "example_alpha",
+  "expression": "rank(ts_mean(returns, 20))"
+}
